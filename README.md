@@ -10,4 +10,4 @@ A repository which contains all the resources that i am using to learn Basics of
 - [Numpy](https://numpy.org/doc/1.23/user/absolute_beginners.html)
 - [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py)
-- Scikit Learn(https://scikit-learn.org/stable/getting_started.html)
+- [Scikit Learn](https://scikit-learn.org/stable/getting_started.html)

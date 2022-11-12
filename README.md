@@ -2,6 +2,7 @@
 A repository which contains all the resources that i am using to learn Basics of Machine Learning
 * * *
 ## /Projects:
+- [CNN Model on MNIST Dataset](https://github.com/ankush-003/Learning-ML-Basics/blob/main/Projects/mnist_cnn.ipynb)
 - [Regression Model on Diabetes Dataset](https://github.com/ankush-003/Learning-ML-Basics/blob/main/Projects/diabetes_regression.ipynb)
 - [KNN Model on Iris Dataset](https://github.com/ankush-003/Learning-ML-Basics/blob/main/Projects/iris_KNN.ipynb)
 - [Regression Model on Bikeshare Dataset](https://github.com/ankush-003/Learning-ML-Basics/blob/main/Projects/training-Regression-Model.ipynb)

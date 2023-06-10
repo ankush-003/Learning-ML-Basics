@@ -12,3 +12,6 @@ A repository which contains all the resources that i am using to learn Basics of
 - [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/quick_start.html#sphx-glr-tutorials-introductory-quick-start-py)
 - [Scikit Learn](https://scikit-learn.org/stable/getting_started.html)
+
+## Sources:
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
